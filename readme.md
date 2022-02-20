@@ -22,7 +22,7 @@ CTRL+click the video thumbnails to open in a new tab
 
 | Youtube Videos |
 | :--: |
-| *IN-9 Nixie Tube 10-Band Spectrum Analyzer- Demo* |
+| *IN-9 Nixie Tube 10-Band Spectrum Analyzer - Demo* |
 | [![Image](/doc/vid02_tb.png)](https://youtu.be/E57hM2_uk4M) |
 | *IN-9 Nixie Tube 10-Band Spectrum Analyzer - OSRS Lunar Isle* |
 | [![Image](/doc/vid01_tb.png)](https://youtu.be/o1zT5AS7XM0) |
